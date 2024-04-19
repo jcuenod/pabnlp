@@ -4,6 +4,6 @@ weight: 99
 header_menu: true
 ---
 
-Our main contact person is **Joel Mathew**. You can contact him here:
+Our main contact person is **Joel Mathew**. Contact him here:
 
-<i class="fa fa-envelope"></i> [joel](mailto:jm@somewhere.com)
+[✉ joel](mailto:jm@somewhere.com)

@@ -22,8 +22,8 @@ jobs:
           hugo-version: latest
           extended: true
 
-      - name: Build local ./exampleSite
-        run: hugo --minify --gc --destination ../public --source ./ --themesDir ./themes --baseURL https://jcuenod.github.io/pabnlp/
+      - name: Build local
+        run: hugo --minify --gc --destination ./public --source ./ --themesDir ./themes --baseURL https://jcuenod.github.io/pabnlp/
 
       - name: Deploy to GitHub Pages
         if: github.event_name == 'push'

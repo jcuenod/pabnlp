@@ -1,4 +1,4 @@
-baseURL = 'http://jcuenod.github.io/pabnlp'
+baseURL = 'http://biblenlp.github.io/'
 languageCode = 'en-us'
 title = 'PABNLP'
 theme = 'hugo-scroll'

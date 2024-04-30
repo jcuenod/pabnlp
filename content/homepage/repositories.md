@@ -1,12 +1,10 @@
 ---
-title: "Some of our Repositories"
+title: "Repositories and Resources"
 header_menu_title: "Repositories"
 navigation_menu_title: "Repositories"
 weight: 2
 header_menu: true
 ---
-
-## Repositories and Resources
 
 ### [greek-room 🔗](https://github.com/BibleNLP/greek-room)
 

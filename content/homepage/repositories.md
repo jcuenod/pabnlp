@@ -31,11 +31,6 @@ Serves as a central hub for Bible NLP resources.
 **Baseline experiments run on the ebible dataset**  
 Provides a starting point for researchers working with the ebible corpus.
 
-### [biblical_names 🔗](https://github.com/BibleNLP/biblical_names)
-
-**A multilingual repository of Biblical Names**  
-Useful for named entity recognition and other NLP tasks involving Biblical names.
-
 ### [bible-graph 🔗](https://github.com/BibleNLP/bible-graph)
 
 **Open Graph database schema for Bible data**  

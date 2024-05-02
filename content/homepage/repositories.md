@@ -1,12 +1,10 @@
 ---
-title: "Some of our Repositories"
+title: "Repositories and Resources"
 header_menu_title: "Repositories"
 navigation_menu_title: "Repositories"
 weight: 2
 header_menu: true
 ---
-
-## Repositories and Resources
 
 ### [greek-room 🔗](https://github.com/BibleNLP/greek-room)
 
@@ -32,11 +30,6 @@ Serves as a central hub for Bible NLP resources.
 
 **Baseline experiments run on the ebible dataset**  
 Provides a starting point for researchers working with the ebible corpus.
-
-### [biblical_names 🔗](https://github.com/BibleNLP/biblical_names)
-
-**A multilingual repository of Biblical Names**  
-Useful for named entity recognition and other NLP tasks involving Biblical names.
 
 ### [bible-graph 🔗](https://github.com/BibleNLP/bible-graph)
 

@@ -1,0 +1,1 @@
+Hugo static site based on https://github.com/zjedi/hugo-scroll
